@@ -1,4 +1,4 @@
-[![MastHead](https://raw.githubusercontent.com/ankushsinghgandhi/template-project-repo/main/header.jpg)](https://ankushsinghgandhi.github.io)
+<a href="https://www.buymeacoffee.com/ankushsingh"><img src="https://user-images.githubusercontent.com/55637484/136698218-0c4b1a49-6d78-45cd-8674-9db0757138db.jpg"></a>
 <p align="center">
   <a href="https://ankushsinghgandhi.github.io">
     <img src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" />
@@ -52,4 +52,4 @@ I made a Body Mass Index Calculator inspired by the beautiful designs made by [R
 - Learn about composition vs. inheritance and the Flutter way of creating custom UI.
 - Understand the difference between const and final in Dart and when to use each.
 
-[![MastHead](https://raw.githubusercontent.com/ankushsinghgandhi/template-project-repo/main/footer.jpg)](https://www.buymeacoffee.com/ankushsingh)
+<a href="https://www.buymeacoffee.com/ankushsingh"><img src="https://user-images.githubusercontent.com/55637484/136698262-a5715d94-fa1b-4b73-9e07-13a9f08538db.jpg"></a>
